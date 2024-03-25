@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.mycompany.xr-framework": {
+    "XRTestFramework": {
       "version": "file:com.mycompany.xr-framework",
       "depth": 0,
       "source": "embedded",
