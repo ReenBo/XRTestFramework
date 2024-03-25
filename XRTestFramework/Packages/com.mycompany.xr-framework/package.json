@@ -1,0 +1,13 @@
+{
+  "name": "com.mycompany.xr-framework",
+  "displayName": "XR Framework",
+  "version": "1.0.0",
+  "description": "Some Package Description",
+  "keywords": [
+    "Unity",
+    "UPM"
+  ],
+  "author": "Mikhail",
+  "license": "UNLICENSED",
+  "unity": "2022.3"
+}
